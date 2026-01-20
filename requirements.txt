@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+pdf2image
+pytesseract
+langgraph
+langchain
+langchain_google_genai
+python-dotenv
+typing
+pydantic
+datetime
